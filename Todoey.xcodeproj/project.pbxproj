@@ -100,8 +100,8 @@
 		3A8CF02B21207E9E005438E9 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
-				3A938ACC2121BDAB002F1271 /* CategoryViewController.swift */,
 				3AFD9F542125594800A600D6 /* SwipeTableViewController.swift */,
+				3A938ACC2121BDAB002F1271 /* CategoryViewController.swift */,
 				3A8CF018211F67F9005438E9 /* TodoListViewController.swift */,
 			);
 			path = Controller;
